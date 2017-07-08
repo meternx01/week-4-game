@@ -1,0 +1,52 @@
+.back-orange{
+	background-color: #C97127;
+}
+
+.back-pink{
+	background-color: #FDE7CD;
+}
+
+.back-lightgreen{
+	background-color: #5BC880;
+}
+
+.back-tealgreen{
+	background-color: #4DB5A9;
+}
+ 
+ .back-teal{
+ 	background-color: #4BFDFE;
+ }
+
+.text-white{
+	color: #FFFFFF;
+}
+
+.text-green{
+	color: #6B8B39;
+}
+
+.text-purple{
+	color: #4E0058;
+}
+
+.row{
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.col-md-3{
+	margin-right:2%;
+}
+
+.img-responsive{
+	height: 140px;
+	margin-right: 2%;
+	background-color: #000000;
+	box-shadow: 0 0 30px #FFFFFF;
+}
+
+body{
+	background-image: url("http://i.imgur.com/tYChDrn.jpg");
+    background-size: 100%;
+}
